@@ -129,6 +129,10 @@ const API_SITES = {
         api: 'https://api.wujinapi.me',
         name: '无尽资源'
     },
+    ikunzy: {
+        api: 'https://www.ikunzy.com/',
+        name: 'ikunzy'
+    },
 };
 
 // 添加聚合搜索的配置选项
