@@ -133,6 +133,42 @@ const API_SITES = {
         api: 'https://www.ikunzy.com',
         name: 'ikun资源'
     },
+    kuaikanzy: {
+        api: 'https://kuaikanzy.net',
+        name: '快看资源'
+    },
+    leshizy1: {
+        api: 'https://www.leshizy1.com',
+        name: '乐视资源'
+    },
+    lzizy: {
+        api: 'http://lzizy.net',
+        name: '量子资源'
+    },
+    suonizy: {
+        api: 'https://suonizy.net',
+        name: '索尼资源'
+    },
+    1080zyk6: {
+        api: 'https://1080zyk6.com',
+        name: '优质资源'
+    },
+    yayazy: {
+        api: 'https://yayazy.com',
+        name: '鸭鸭资源'
+    },
+    niuniuzy: {
+        api: 'ttps://niuniuzy.cc',
+        name: '牛牛资源'
+    },
+    okzyw: {
+        api: 'https://okzyw.vip',
+        name: 'OK资源'
+    },
+    49zyw: {
+        api: 'https://49zyw.com',
+        name: '49资源'
+    },
 };
 
 // 添加聚合搜索的配置选项
