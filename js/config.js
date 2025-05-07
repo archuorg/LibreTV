@@ -130,8 +130,8 @@ const API_SITES = {
         name: '无尽资源'
     },
     ikunzy: {
-        api: 'https://www.ikunzy.com/',
-        name: 'ikunzy'
+        api: 'https://www.ikunzy.com',
+        name: 'ikun资源'
     },
 };
 
