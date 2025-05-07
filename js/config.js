@@ -168,7 +168,7 @@ const API_SITES = {
     49zyw: {
         api: 'https://49zyw.com',
         name: '49资源'
-    },
+    }
 };
 
 // 添加聚合搜索的配置选项
