@@ -149,7 +149,7 @@ const API_SITES = {
         api: 'https://suonizy.net',
         name: '索尼资源'
     },
-    1080zyk6: {
+    zyk6: {
         api: 'https://1080zyk6.com',
         name: '优质资源'
     },
@@ -165,7 +165,7 @@ const API_SITES = {
         api: 'https://okzyw.vip',
         name: 'OK资源'
     },
-    49zyw: {
+    zyw49: {
         api: 'https://49zyw.com',
         name: '49资源'
     }
